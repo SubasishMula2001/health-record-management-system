@@ -5,9 +5,6 @@
 
 Go to the project directory
 
-```bash
-  cd public_health_record_management_system
-```
 
 Install dependencies in server
 
