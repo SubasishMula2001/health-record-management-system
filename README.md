@@ -2,13 +2,6 @@
 # Hey, Welcome to Repo of Public Health Record Management System! 👋
 
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/PICT-PBL-6-2021-22/public_health_record_management_system
-```
 
 Go to the project directory
 
@@ -63,8 +56,7 @@ To run this project, you will need to add the following environment variables to
 DATABASE contains the dbURI of MongoDB connections and SECRET_KEY contains Secret key for signing and verifying Jason Web Tokens (JWT)
 
 
-## Authors
+## Author
 
-- [@rohitvpatil0810](https://www.github.com/rohitvpaitl0810)
-- [@jayesh1602](https://www.github.com/jayesh1602)
+- [@SubasishMula](https://www.github.com/SubasishMula2001)
 
